@@ -1,0 +1,15 @@
+#education th, #education td, #skills, #skills td, #skills th {
+    border: 1px solid;
+}
+
+#personal_info {
+    border-spacing: 20px;
+}
+
+th, td {
+    padding: 10px;
+}
+
+#personal_info th, #personal_info td {
+    padding: 1px;
+}
